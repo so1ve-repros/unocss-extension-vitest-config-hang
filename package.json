@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "packageManager": "pnpm@10.28.0",
+  "type": "module",
+  "devDependencies": {
+    "vite": "8.0.0-beta.8",
+    "vitest": "4.0.17"
+  }
+}
